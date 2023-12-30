@@ -1,0 +1,12 @@
+[package]
+name = "v1_hello_world_biomathcode"
+version = "0.1.0"
+authors = ['Pratik Sharma<sharma.pratik2016@gmail.com']
+edition = "2021"
+keywords = ["do not use", "hello world"]
+description = "Do you use this crate it is for demo purpose only"
+readme = "readme.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
